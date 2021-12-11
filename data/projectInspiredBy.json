@@ -1,0 +1,55 @@
+[
+
+    {
+      "name": "Tom Tran",
+      "alias": "Revengeful Friend",
+      "location": "Indianapolis",
+      "damage level": "3",
+      "enemyOne": "Andrea Capunay",
+      "enemyTwo": "Miguel Vaca",
+      "enemyThree": "Hanna Drake",
+      "enemyFour": "David Bean",
+      "enemyFive": "The A-Team",
+      "enemySix": "Mauricio Gamez",
+      "enemySeven": "Alayah Benavidez",
+      "enemyEight": "Toxic bitches",
+      "enemyNine": "People who is trying to get my friend back to Ari Aster's Universe including Midsommar"
+    },
+
+    {
+      "name": "Abercrombie and Fitch Edinburgh",
+      "alias": "Blonde Squad",
+      "location": {
+        "City": "Edinburgh",
+        "State": "Indiana"
+      },
+      "damage level": "5",
+      "enemyOne": "American Eagle Outfitters",
+      "enemyTwo": "Andrea Capunay",
+      "enemyThree": "Miguel Vaca",
+      "enemyFour": "Toxic bitches",
+      "enemyFive": "The A-Team",
+      "enemySix": "Mauricio Gamez",
+      "enemySeven": "David Bean",
+      "enemyEight": "Alayah Benavidez",
+      "enemyNine": "Previous managers"
+    },
+
+    {
+      "name": "Christian Hughes",
+      "alias": "Daddy In Hell",
+      "location":"Indianapolis",
+      "damage level": "5",
+      "enemyOne": "Dani Ardor",
+      "enemyTwo": "Andrea Capunay",
+      "enemyThree": "Miguel Vaca",
+      "enemyFour": "David Bean",
+      "enemyFive": "The Harga",
+      "enemySix": "Maja",
+      "enemySeven": "People who is trying to get him back to Ari Aster's Universe including Midsommar",
+      "enemyEight": "The A-Team",
+      "enemyNine": "Toxic bitches"
+    }
+    
+  ]
+  

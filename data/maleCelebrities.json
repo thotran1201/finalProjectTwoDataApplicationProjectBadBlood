@@ -1,0 +1,284 @@
+[
+
+    {
+      "name": "Anthony Mackie",
+      "alias": "Captain",
+      "location": "New York City",
+      "damage level": "5",
+      "enemy": "his betrayed manager"
+    },
+
+    {
+      "name": "Casey Cott",
+      "alias": "Sexual Cupcake",
+      "location": "Beverly Hills",
+      "damage level": "3",
+      "enemyOne": "his homophobic enemy",
+      "enemyTwo": "Mark Consuelos",
+      "enemyThree": "People who judges his sexuality"
+    },
+
+    {
+      "name": "Chace Crawford",
+      "alias": "Evil Slasher",
+      "location": {
+        "City": "Nashville",
+        "State": "Tennessee"
+      },
+      "damage level": "5",
+      "enemy": "his brother"
+    },
+
+    {
+      "name": "Charles Melton",
+      "alias": "Kung-Fu",
+      "location": "Beverly Hills",
+      "damage level": "5",
+      "enemyOne": "Jungkook",
+      "enemyTwo": "Mark Consuelos"
+    },
+
+    {
+      "name": "Chris Evans",
+      "alias": "Commander",
+      "location": "Houston",
+      "damage level": "5",
+      "enemy": "Conservative Christian"
+    },
+
+    {
+      "name": "Chris Pratt",
+      "alias": "Fighter",
+      "location": "Houston",
+      "damage level": "5",
+      "enemy": "Conservative Christian"
+    },
+
+    {
+      "name": "Cole Sprouse",
+      "alias": "Bloody Home-Slice",
+      "location": "Beverly Hills",
+      "damage level": "5",
+      "enemy": "Mark Consuelos"
+    },
+
+    {
+      "name": "Dillon Francis",
+      "alias": "Hearing Destroyer",
+      "location": {
+        "City": "Indio",
+        "State": "California"
+      },
+      "damage level": "4.5",
+      "enemy": "Travis Scott"
+    },
+
+    {
+      "name": "Ed Sheeran",
+      "alias": "Icy Ginger",
+      "location": "Antarctica",
+      "damage level": "3",
+      "enemy": "evil cult leader"
+    },
+
+    {
+      "name": "Harry Styles",
+      "alias": "Sadistic Crayon",
+      "location": "New York City",
+      "damage level": "2",
+      "enemyOne": "Liam Payne",
+      "enemyTwo": "Louis Tomlinson",
+      "enemyThree": "Niall Horan"
+    },
+
+    {
+      "name": "Jack Reynor",
+      "alias": "The Ginger Curse",
+      "location": "Malibu",
+      "damage level": "5",
+      "enemy": "Vilheim Blomgren"
+    },
+
+    {
+      "name": "Joe Jonas",
+      "alias": "Murderous Rocker",
+      "location": "Los Angeles",
+      "damage level": "5",
+      "enemy": "Travis Barker"
+    },
+
+    {
+      "name": "Jonathan Daviss",
+      "alias": "Slugger",
+      "location": {
+        "City": "Gary",
+        "State": "Indiana"
+      },
+      "damage level": "3",
+      "enemy": "his toxic girlfriend"
+    },
+
+    {
+      "name": "Kevin Jonas",
+      "alias": "Snake Byte",
+      "location": "Beverly Hills",
+      "damage level": "4",
+      "enemy": "fake cop"
+    },
+
+    {
+      "name": "Ki Hong Lee",
+      "alias": "Gullible Wrestler",
+      "location": {
+        "City": "Koreatown",
+        "State": "California"
+      },
+      "damage level": "3.5",
+      "enemyOne": "his toxic ex-friend from 6 1/2 years",
+      "enemyTwo": "his ex-crush who ghosted him",
+      "enemyThree": "his ex-friend's boyfriend"
+    },
+
+    {
+      "name": "KJ Apa",
+      "alias": "Revengeful Ginger",
+      "location": {
+        "City": "Sapa",
+        "Country": "Vietnam"
+      },
+      "damage level": "5",
+      "enemyOne": "Communist Leader",
+      "enemyTwo": "Mark Consuelos"
+    },
+
+    {
+      "name": "Lil Nas X",
+      "alias": "Hell King",
+      "location": {
+        "City": "Hell",
+        "State": "Montero"
+      },
+      "damage level": "5",
+      "enemy": "Troye Sivan"
+    },
+
+    {
+      "name": "Nick Jonas",
+      "alias": "Dilemma",
+      "location": "Los Angeles",
+      "damage level": "5",
+      "enemy": "Demi Lovato"
+    },
+
+    {
+      "name": "Noah Centineo",
+      "alias": "Good Guy",
+      "location": "Malibu",
+      "damage level": "1",
+      "enemy": "Billie Eilish"
+    },
+
+    {
+      "name": "Penn Badgley",
+      "alias": "Husband From Hell",
+      "location": "Washington D.C.",
+      "damage level": "4.5",
+      "enemy": "his sociopathic wife"
+    },
+
+    {
+      "name": "Rege-Jean Page",
+      "alias": "Dark Cat",
+      "location": "Paris",
+      "damage level": "5.5",
+      "enemy": "Phoebe Dynevor"
+    },
+
+    {
+      "name": "Ryan Guzman",
+      "alias": "Phoenix",
+      "location": "Orlando",
+      "damage level": "5",
+      "enemyOne": "Ruthless ring-leader",
+      "enemyTwo": "a boyfriend of his compulsive lying ex-best friend",
+      "enemyThree": "Rooney Mara"
+    },
+
+    {
+      "name": "Sebastian Stan",
+      "alias": "Knuckle",
+      "location": "Dallas",
+      "damage level": "3.5",
+      "enemy": "Megan Fox"
+    },
+
+    {
+      "name": "Shawn Mendes",
+      "alias": "Recluso Marrón",
+      "location": {
+        "City": "Key West",
+        "State": "Florida"
+      },
+      "damage level": "4",
+      "enemyOne": "his women he seduced",
+      "enemyTwo": "his men he had hooked up with",
+      "enemyThree": "Charlie Puth"
+    },
+
+    {
+      "name": "Skeet Ulrich",
+      "alias": "Bloody Face",
+      "location": "Beverly Hills",
+      "damage level": "5",
+      "enemy": "Mark Consuelos"
+    },
+
+    {
+      "name": "Timothee Chalamet",
+      "alias": "Fate",
+      "location": "Palm Beach",
+      "damage level": "2",
+      "enemy": "Armie Hammer"
+    },
+
+    {
+      "name": "Tom Holland",
+      "alias": "Knockout Slammer",
+      "location": "Detroit",
+      "damage level": "4",
+      "enemy": "Vilheim Blomgren"
+    },
+
+    {
+      "name": "Tyler Cameron",
+      "alias": "Tough Candy",
+      "location": "Los Angeles",
+      "damage level": "5",
+      "enemy": "his brutal opponent"
+    },
+
+    {
+      "name": "William Jackson Harper",
+      "alias": "Wrecking Ball",
+      "location": {
+        "City": "Jamaica",
+        "State": "New York"
+      },
+      "damage level": "3.5",
+      "enemy": "his egotistical boss"
+    },
+
+    {
+      "name": "Zachary Levi",
+      "alias": "Cruel Traveler",
+      "location": {
+        "City": "Matera",
+        "Country": "Italy"
+      },
+      "damage level": "4",
+      "enemyOne": "Ruthless Spy",
+      "enemyTwo": "Sarah Paulson"
+    }
+    
+  ]
+  

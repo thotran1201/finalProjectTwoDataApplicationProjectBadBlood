@@ -1,0 +1,286 @@
+[
+    
+    {
+      "name": "Ariana Grande",
+      "alias": "Sweet Snowflake",
+      "location": "Los Angeles",
+      "damage level": "2",
+      "enemyOne": "Victoria Justice",
+      "enemyTwo": "Pete Davidson",
+      "enemyThree": "Kim Petras"
+    },
+  
+    {
+      "name": "Bella Hadid",
+      "alias": "Unmerciful Revenger",
+      "location": "New York City",
+      "damage level": "5",
+      "enemy": "Hailey Bieber"
+    },
+
+    {
+      "name": "Billie Lourd",
+      "alias": "Cemetery Slayer",
+      "location": "Indianapolis",
+      "damage level": "5.5",
+      "enemy": "her toxic friend"
+    },
+
+    {
+      "name": "Britney Spears",
+      "alias": "Headmistress",
+      "location": "Las Vegas",
+      "damage level": "5",
+      "enemyOne": "Christina Aguilera",
+      "enemyTwo": "Jamie Spears"
+    },
+
+    {
+      "name": "Camila Cabello",
+      "alias": "Viuda Negra",
+      "location": "Miami",
+      "damage level": "4.5",
+      "enemyOne": "Normani's exes",
+      "enemyTwo": "Men she hooked up with",
+      "enemyThree": "Normani"
+    },
+
+    {
+      "name": "Camila Mendes",
+      "alias": "Unremorseful Milkshake",
+      "location": "Brentwood",
+      "damage level": "4",
+      "enemy": "Mark Consuelos"
+    },
+
+    {
+      "name": "Cardi B",
+      "alias": "The Boss Bitch",
+      "location": {
+        "City": "Queens",
+        "State": "New York"
+      },
+      "damage level": "5",
+      "enemy": "Nicki Minaj"
+    },
+
+    {
+      "name": "Charli D'Amelio",
+      "alias": "Nuclear Twin",
+      "location": "Beverly Hills",
+      "damage level": "3",
+      "enemyOne": "Kendall Jenner",
+      "enemyTwo": "Kylie Jenner",
+      "enemyThree": "Kris Jenner"
+    },
+
+    {
+      "name": "Dakota Johnson",
+      "alias": "Malignant Compliant",
+      "location": "Seattle",
+      "damage level": "2",
+      "enemy": "Jamie Dornan"
+    },
+
+    {
+      "name": "Dixie D'Amelio",
+      "alias": "Nuclear Twin",
+      "location": "Beverly Hills",
+      "damage level": "3",
+      "enemyOne": "Kendall Jenner",
+      "enemyTwo": "Kylie Jenner",
+      "enemyThree": "Kris Jenner"
+    },
+
+    {
+      "name": "Dua Lipa",
+      "alias": "Mother Chucker",
+      "location": "Liverpool",
+      "damage level": "4",
+      "enemyOne": "Rita Ora",
+      "enemyTwo": "Bebe Rexha"
+    },
+
+    {
+      "name": "Emma Roberts",
+      "alias": "Undefeated Daisy",
+      "location": "Beverly Hills",
+      "damage level": "4",
+      "enemy": "Camilla Luddington"
+    },
+
+    {
+      "name": "Florence Pugh",
+      "alias": "Flame Thrower",
+      "location": "Brooklyn, New York City",
+      "damage level": "4.5",
+      "enemy": "her gaslighting boyfriend"
+    },
+
+    {
+      "name": "Gigi Hadid",
+      "alias": "Slay-Z",
+      "location": "Paris",
+      "damage level": "5",
+      "enemy": "Zayn Malik"
+    },
+
+    {
+      "name": "Halsey",
+      "alias": "Punching Bag",
+      "location": {
+        "City": "Edison",
+        "State": "New Jersey"
+      },
+      "damage level": "1.5",
+      "enemy": "G-Eazy"
+    },
+
+    {
+      "name": "Katy Perry",
+      "alias": "Sour Lollipop",
+      "location": "Malibu",
+      "damage level": "5",
+      "enemy": "Orlando Bloom"
+    },
+
+    {
+      "name": "Lady Gaga",
+      "alias": "The Fame Monster",
+      "location": {
+        "City": "Manhattan",
+        "State": "New York"
+      },
+      "damage level": "5",
+      "enemyOne": "Men and women she preyed",
+      "enemyTwo": "Madonna"
+    },
+
+    {
+      "name": "Lili Reinhart",
+      "alias": "Eye-Slashes",
+      "location": "Beverly Hills",
+      "damage level": "4",
+      "enemy": "Mark Consuelos"
+    },
+
+    {
+      "name": "Lizzo",
+      "alias": "Justice",
+      "location": {
+        "City": "Inglewood",
+        "State": "California"
+      },
+      "damage level": "5",
+      "enemy": "Jillian Michaels"
+    },
+
+    {
+      "name": "Lucy Hale",
+      "alias": "Raging Revenger",
+      "location": "Philadelphia",
+      "damage level": "3",
+      "enemyOne": "Ian Harding",
+      "enemyTwo": "Derek Hough",
+      "enemyThree": "Julianne Hough"
+    },
+
+    {
+      "name": "Madelaine Petsch",
+      "alias": "Femme Fatale",
+      "location": "Beverly Hills",
+      "damage level": "5",
+      "enemyOne": "Travis Mills",
+      "enemyTwo": "Mark Consuelos"
+    },
+
+    {
+      "name": "Madison Bailey",
+      "alias": "Indestructible Geek",
+      "location": "Chicago",
+      "damage level": "4.5",
+      "enemy": "Her project partner"
+    },
+
+    {
+      "name": "Madison Iseman",
+      "alias": "Shameless Cookie",
+      "location": "Maui",
+      "damage level": "5",
+      "enemy": "Her boyfriend turned stalker"
+    },
+
+    {
+      "name": "Olivia Rodrigo",
+      "alias": "The Electrocutioner",
+      "location": "Pasadena",
+      "damage level": "5",
+      "enemyOne": "Joshua Bassett",
+      "enemyTwo": "Sabrina Carpenter"
+    },
+
+    {
+      "name": "Olivia Wilde",
+      "alias": "Alectrona",
+      "location": "New York City",
+      "damage level": "4.5",
+      "enemy": "Maya Hawke"
+    },
+
+    {
+      "name": "Selena Gomez",
+      "alias": "Arsyn",
+      "location": "Beverly Hills",
+      "damage level": "5",
+      "enemyOne": "Justin Bieber",
+      "enemyTwo": "Demi Lovato",
+      "enemyThree": {
+        "name": "Taylor Swift",
+        "status": "Former"
+      }
+    },
+
+    {
+      "name": "Sophie Turner",
+      "alias": "Slaughter Queen",
+      "location": "Beverly Hills",
+      "damage level": "5",
+      "enemy": "her evil toxic friend from her movie set"
+    },
+
+    {
+      "name": "Taylor Swift",
+      "alias": "Catastrophe",
+      "location": {
+        "City": "Hamptons",
+        "State": "New York"
+      },
+      "damage level": "5",
+      "enemyOne": "Kanye West",
+      "enemyTwo": "Kim Kardashian",
+      "enemyThree": {
+        "name": "Selena Gomez",
+        "status": "Former"
+      }
+    },
+
+    {
+      "name": "Tayshia Adams",
+      "alias": "Undefeated Lover",
+      "location": "New York City",
+      "damage level": "3.5",
+      "enemyOne": "Zac Clark",
+      "enemyTwo": "Clare Crawley",
+      "enemyThree": "Dale Moss"
+    },
+
+    {
+      "name": "Tiffany Haddish",
+      "alias": "Blue Waffle",
+      "location": "Louisville",
+      "damage level": "5.5",
+      "enemyOne": "Kourtney Kardashian",
+      "enemyTwo": "Khloe Kardashian"
+    }
+
+  ]
